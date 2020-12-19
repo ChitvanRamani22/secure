@@ -1,0 +1,32 @@
+.side
+{
+    background-color: white;
+}
+.side img
+{
+    display: inline-block !important;
+    width: 80%;
+    overflow: hidden;
+    margin-left: -30%;
+    margin-top: -5%;
+    z-index: -500;
+}
+.side .aboutus
+{
+    margin-left: 50%;
+    margin-top: -45%;
+}
+.our a
+{
+    text-decoration: none;
+    background-color: #16B2FF17;
+    border-radius: 30px;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    margin-top: 20px;
+    color: #0E77FF;
+    margin-left: 49.7%;
+    border: 1.5px solid #0E77FF;
+    width: 500px;
+}
